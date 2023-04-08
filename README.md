@@ -10,7 +10,7 @@ This project aims to build a facial authentification app which includes face det
 # Usage
 ```bash
 git clone https://github.com/quangnd2911/Facial-Authentication-System.git
-cd Facial-Authentification-System
+cd Facial-Authentication-System
 docker build -t "app" .
 docker run app
 ```
