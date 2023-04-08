@@ -1,0 +1,15 @@
+facenet-pytorch
+matplotlib
+numpy
+opencv-python
+Pillow==9.2.0
+PyYAML==6.0
+scikit-image
+scipy
+seaborn
+streamlit
+streamlit-webrtc
+thop
+torch==1.12.1
+torchvision==0.13.1
+tqdm
