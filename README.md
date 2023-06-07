@@ -5,7 +5,7 @@ Facial Authentification System
 
 This project aims to build a facial authentification app which includes face detection, face recognition, face anti-spoofing attacks and sentiment analysis to contribute to better authenticated system. The flow of this system is described in the following figure:
 
-<img width="667" alt="flow" src="https://user-images.githubusercontent.com/53470099/193404457-f3f0b163-5178-489c-8357-b838fa7dc9f4.png">
+<img width="667" alt="flow" src="https://github.com/quangnd2911/Facial-Authentication-System/assets/71268282/64dabafe-9ee9-407a-88a1-495d3c1cc1e8">
 
 # Usage
 ```bash
