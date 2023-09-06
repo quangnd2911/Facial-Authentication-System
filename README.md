@@ -20,5 +20,5 @@ docker run app
 # References
 Thanks to some awesome works:
 
-- [MTCNN](https://github.com/timesler/facenet-pytorch)
+- [FaceNet](https://github.com/timesler/facenet-pytorch)
 - [Yolofacev5](https://github.com/elyha7/yoloface)
